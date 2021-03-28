@@ -81,8 +81,8 @@ body {
 }
 div {
   display: inline-block;
-  *display: inline; /* For IE7 */
-  zoom: 1; /* Trigger hasLayout */
+  *display: inline;
+  zoom: 1;
   width: 50%;
   text-align: center;
 }
